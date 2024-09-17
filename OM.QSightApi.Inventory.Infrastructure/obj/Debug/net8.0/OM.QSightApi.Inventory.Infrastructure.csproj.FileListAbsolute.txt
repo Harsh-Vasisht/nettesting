@@ -1,0 +1,5 @@
+C:\Users\Harsh Vashisht\Downloads\NEW_CONV_v2\dotnetProject\OM.QSightApi.Inventory\OM.QSightApi.Inventory.Infrastructure\obj\Debug\net8.0\OM.QSightApi.Inventory.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Harsh Vashisht\Downloads\NEW_CONV_v2\dotnetProject\OM.QSightApi.Inventory\OM.QSightApi.Inventory.Infrastructure\obj\Debug\net8.0\OM.QSightApi.Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Vashisht\Downloads\NEW_CONV_v2\dotnetProject\OM.QSightApi.Inventory\OM.QSightApi.Inventory.Infrastructure\obj\Debug\net8.0\OM.QSightApi.Inventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Harsh Vashisht\Downloads\NEW_CONV_v2\dotnetProject\OM.QSightApi.Inventory\OM.QSightApi.Inventory.Infrastructure\obj\Debug\net8.0\OM.QSightApi.Inventory.Infrastructure.AssemblyInfo.cs
+C:\Users\Harsh Vashisht\Downloads\NEW_CONV_v2\dotnetProject\OM.QSightApi.Inventory\OM.QSightApi.Inventory.Infrastructure\obj\Debug\net8.0\OM.QSightApi.Inventory.Infrastructure.csproj.CoreCompileInputs.cache
